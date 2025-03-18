@@ -1,6 +1,3 @@
-
-
-
 aiohappyeyeballs==2.4.0
 aiohttp==3.10.5
 aiosignal==1.3.1
@@ -112,13 +109,3 @@ watchdog==4.0.2
 Werkzeug==3.0.4
 wrapt==1.16.0
 yarl==1.10.0
-
-
-Flask
-gunicorn
-python-dotenv
-groq
-langchain
-pydantic
-
-
